@@ -1,3 +1,4 @@
-# Created by .ignore support plugin (hsz.mobi)
+# Created by nore support plugin (hsz.mobi)
 .gradle
 .idea
+application-oauth.properties
