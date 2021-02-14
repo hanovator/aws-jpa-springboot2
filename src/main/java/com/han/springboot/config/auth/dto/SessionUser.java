@@ -6,7 +6,7 @@ import lombok.Getter;
 import java.io.Serializable;
 
 @Getter
-public class SessionUser implements Serializable {
+public class SessionUser implements Serializable { // Serializable : 세션에 넣기위한 직렬화
     private String name;
     private String email;
     private String picture;
