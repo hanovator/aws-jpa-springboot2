@@ -1,5 +1,5 @@
 # Created by nore support plugin (hsz.mobi)
-.gradle
-.idea
+#.gradle
+#.idea
 
 #application-oauth.properties
