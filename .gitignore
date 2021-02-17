@@ -1,0 +1,6 @@
+# Created by nore support plugin (hsz.mobi)
+.gradle
+.idea
+
+application-oauth.properties
+application-real-db.properties
