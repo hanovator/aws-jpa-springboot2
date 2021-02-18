@@ -22,8 +22,8 @@ before_deploy:
 
 deploy:
   - provider: s3
-    access_key_id: 11 # Travis repo settings에 설정된 값
-    secret_access_key: 11 # Travis repo settings에 설정된 값
+    access_key_id:  # Travis repo settings에 설정된 값
+    secret_access_key:  # Travis repo settings에 설정된 값
     bucket: aws-spring-build # S3 버킷
     region: us-east-1
     skip_cleanup: true
